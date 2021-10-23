@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+*{
+    background-color: black;
+    }
+
+.fotorama {
+  width: 1000px;
+  height: 1000px;
+  padding-top: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.titulo {
+    padding-top: 50px;
+    color:#BD1616;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 900;
+}
+
+.titulo-video{
+    padding-top: 0;
+    padding-bottom: 100px;
+}
